@@ -7,4 +7,4 @@ It has been developed as an assignment from the online course Web Developer Boot
 
 # Website 
 
-file:///C:/Users/rahel/Desktop/Udemy.CSteeleHTML/Bootstrap4_Code/13_Museum_Of_Candy/Final/index.html
+http:///C:/Users/rahel/Desktop/Udemy.CSteeleHTML/Bootstrap4_Code/13_Museum_Of_Candy/Final/index.html
